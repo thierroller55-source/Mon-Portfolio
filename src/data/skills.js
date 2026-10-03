@@ -93,8 +93,8 @@ export const skills = {
       en: "Languages"
     },
     items: [
-      "Français [NIVEAU À PRÉCISER]",
-      "Anglais [NIVEAU À PRÉCISER]"
+      "Français (Courant)",
+      "Anglais (Courant)"
     ]
   }
 };

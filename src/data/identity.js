@@ -12,7 +12,7 @@ export const identity = {
   gitlab: "https://gitlab.com/thierroller55",
   linkedin: "https://www.linkedin.com/in/mame-thierno-d-039163391",
   x: "https://x.com/MameThierno71",
-  availability: "[À PRÉCISER : stage / alternance / emploi, date, télétravail]",
+  availability: "Disponible pour un emploi, un stage ou une alternance (télétravail possible)",
   tagline: {
     fr: "Développeur Full Stack web et mobile, je conçois des applications fiables, de l'interface à l'API, avec le souci constant de la qualité et des tests.",
     en: "Full Stack web and mobile developer, I build reliable applications from interface to API, with a constant focus on quality and testing."
