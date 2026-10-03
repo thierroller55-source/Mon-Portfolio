@@ -57,10 +57,10 @@ export const projects = [
         }
       }
     ],
-    demoUrl: "[LIEN_DÉMO]",
-    repoUrl: "[LIEN_DÉPÔT]",
+    demoUrl: "https://easyhealth-frontend.vercel.app/",
+    repoUrl: "https://github.com/bakeli-OpenSource/easyhealth-frontend,https://github.com/bakeli-OpenSource/easyhealth-backend",
     image: "/projects/easyhealth.png",
-    screenshots: ["[CAPTURE_1]", "[CAPTURE_2]"]
+    screenshots: ["/projects/easyhealth.png"]
   },
   {
     id: 2,
@@ -97,10 +97,10 @@ export const projects = [
       ]
     },
     challenges: [],
-    demoUrl: "[LIEN_DÉMO]",
-    repoUrl: "[LIEN_DÉPÔT]",
+    demoUrl: "https://easybus-frontend-eight.vercel.app",
+    repoUrl: "https://gitlab.com/ramaka947/easybus_frontend, https://gitlab.com/ramaka947/easybus_backend, https://gitlab.com/ramaka947/easybus_mobile",
     image: "/projects/easybus.png",
-    screenshots: ["[CAPTURE_1]", "[CAPTURE_2]"]
+    screenshots: ["/projects/easybus.png"]
   },
   {
     id: 3,
@@ -137,10 +137,10 @@ export const projects = [
       ]
     },
     challenges: [],
-    demoUrl: "[LIEN_DÉMO]",
-    repoUrl: "[LIEN_DÉPÔT]",
+    demoUrl: "https://red-product-fullstack-6bal.vercel.app/inscription.html",
+    repoUrl: "https://github.com/thierroller55-source/red-product-fullstack",
     image: "/projects/red-product.png",
-    screenshots: ["[CAPTURE_1]", "[CAPTURE_2]"]
+    screenshots: ["/projects/red-product.png"]
   },
   {
     id: 4,
@@ -173,10 +173,10 @@ export const projects = [
       ]
     },
     challenges: [],
-    demoUrl: "[LIEN_DÉMO]",
-    repoUrl: "[LIEN_DÉPÔT]",
+    demoUrl: "Projet confidentiel",
+    repoUrl: "Dépôt privé",
     image: "/projects/redteamcn.png",
-    screenshots: ["[CAPTURE_1]", "[CAPTURE_2]"]
+    screenshots: ["/projects/redteamcn.png"]
   },
   {
     id: 5,
@@ -207,10 +207,10 @@ export const projects = [
       ]
     },
     challenges: [],
-    demoUrl: "[LIEN_DÉMO]",
-    repoUrl: "[LIEN_DÉPÔT]",
+    demoUrl: "https://work.bakeli.tech/",
+    repoUrl: "Dépôt privé",
     image: "/projects/bakeli-world.png",
-    screenshots: ["[CAPTURE_1]", "[CAPTURE_2]"]
+    screenshots: ["/projects/bakeli-world.png"]
   },
   {
     id: 6,
