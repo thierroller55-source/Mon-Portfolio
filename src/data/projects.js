@@ -253,7 +253,7 @@ export const projects = [
     challenges: [],
     demoUrl: "https://mon-celebra.vercel.app/",
     repoUrl: "https://github.com/thierroller55-source/mon-celebra",
-    image: "/projects/Logo Mon Celebra.png",
-    screenshots: ["/projects/Logo Mon Celebra.png"]
+    image: "/projects/mon-celebra.png",
+    screenshots: ["/projects/mon-celebra.png"]
   }
 ];
