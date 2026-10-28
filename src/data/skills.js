@@ -67,7 +67,7 @@ export const skills = {
       "GitLab (branches, Merge Requests)",
       "API REST",
       "Résolution de bugs en production",
-      "Déploiement continu (Vercel, Render)"
+      "Déploiement continu (Vercel, Render, Firebase)"
     ]
   },
   quality: {
