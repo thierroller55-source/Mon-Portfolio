@@ -55,5 +55,26 @@ export const certificates = [
     date: "04/08/2026",
     score: "9/10",
     image: "/certificats/airtable.png"
+  },
+  {
+    id: 9,
+    title: "React Native",
+    organization: "Bakeli",
+    date: "28/10/2026",
+    image: "/certificats/React-natif.png"
+  },
+  {
+    id: 10,
+    title: "Les bases en Django",
+    organization: "Bakeli",
+    date: "28/10/2026",
+    image: "/certificats/Les Base en djaago.png"
+  },
+  {
+    id: 11,
+    title: "Certification en Anglais",
+    organization: "Bakeli",
+    date: "28/10/2026",
+    image: "/certificats/certification en Anglais.jpeg"
   }
 ];
