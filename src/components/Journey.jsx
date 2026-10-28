@@ -11,8 +11,8 @@ const Journey = () => {
       title: "Formation Développement Web et Web Mobile",
       organization: "Bakeli School of Technology",
       description: language === 'fr'
-        ? "Formation intensive en développement web et mobile, avec spécialisation JavaScript, React et écosystème PHP/Laravel."
-        : "Intensive training in web and mobile development, with specialization in JavaScript, React and PHP/Laravel ecosystem."
+        ? "Formation intensive en développement web et mobile, avec spécialisation JavaScript, React, React Native, Django et écosystème PHP/Laravel. Certifications en React Native, Django et Anglais."
+        : "Intensive training in web and mobile development, with specialization in JavaScript, React, React Native, Django and PHP/Laravel ecosystem. Certifications in React Native, Django and English."
     },
     {
       year: "07/04/2026 - 07/10/2026",

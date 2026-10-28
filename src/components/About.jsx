@@ -31,6 +31,9 @@ const About = () => {
                 <p className="text-slate-600 dark:text-slate-400">
                   2025 – 2026
                 </p>
+                <p className="text-slate-600 dark:text-slate-400 text-sm mt-2">
+                  Certifications : React Native, Django, Anglais
+                </p>
               </div>
             </div>
             <div className="bg-slate-50 dark:bg-slate-800 rounded-xl p-6">

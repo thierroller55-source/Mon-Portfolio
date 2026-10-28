@@ -1,8 +1,8 @@
 export const identity = {
   name: "Mame Thierno DIOUF",
   title: {
-    fr: "Développeur Full Stack (JavaScript, React, PHP), web et mobile",
-    en: "Full Stack Developer (JavaScript, React, PHP), web and mobile"
+    fr: "Développeur Full Stack (JavaScript, React, React Native, PHP, Django), web et mobile",
+    en: "Full Stack Developer (JavaScript, React, React Native, PHP, Django), web and mobile"
   },
   location: "Dakar, Sénégal",
   email: "thierroller55@gmail.com",
@@ -18,8 +18,8 @@ export const identity = {
     en: "Full Stack web and mobile developer, I build reliable applications from interface to API, with a constant focus on quality and testing."
   },
   about: {
-    fr: "Formé sur JavaScript, React et l'écosystème PHP/Laravel, avec une expérience concrète de correction de bugs en production sur des applications réelles (API REST, base de données relationnelle et NoSQL, déploiement continu). Autonome sur toute la chaîne : diagnostic, correction, tests et mise en production via Git.",
-    en: "Trained in JavaScript, React and the PHP/Laravel ecosystem, with concrete experience in fixing production bugs on real applications (REST API, relational and NoSQL databases, continuous deployment). Autonomous throughout the chain: diagnosis, correction, testing and deployment via Git."
+    fr: "Formé sur JavaScript, React, React Native, Django et l'écosystème PHP/Laravel, avec une expérience concrète de correction de bugs en production sur des applications réelles (API REST, base de données relationnelle et NoSQL, Firebase, déploiement continu). Autonome sur toute la chaîne : diagnostic, correction, tests et mise en production via Git. Certifié en Anglais.",
+    en: "Trained in JavaScript, React, React Native, Django and the PHP/Laravel ecosystem, with concrete experience in fixing production bugs on real applications (REST API, relational and NoSQL databases, Firebase, continuous deployment). Autonomous throughout the chain: diagnosis, correction, testing and deployment via Git. Certified in English."
   },
   cvFile: "/Mame_Thierno_Diouf.docx.CV.pdf",
   profileImage: "/images/profil.jpg"

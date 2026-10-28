@@ -43,7 +43,8 @@ export const skills = {
     },
     items: [
       "MongoDB (Mongoose)",
-      "PostgreSQL"
+      "PostgreSQL",
+      "Firebase"
     ]
   },
   cms: {
@@ -93,8 +94,8 @@ export const skills = {
       en: "Languages"
     },
     items: [
-      "Français (Courant)",
-      "Anglais (Courant)"
+      "Français (Natif)",
+      "Anglais (Intermédiaire - Certifié)"
     ]
   }
 };
