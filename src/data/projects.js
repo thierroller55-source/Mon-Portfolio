@@ -214,30 +214,46 @@ export const projects = [
   },
   {
     id: 6,
-    name: "Tâche 21",
+    name: "Mon Celebra",
     description: {
-      fr: "[DESCRIPTION À FOURNIR]",
-      en: "[DESCRIPTION TO BE PROVIDED]"
+      fr: "Plateforme web qui permet de créer et de partager facilement des invitations numériques pour différents événements : mariages, anniversaires, baptêmes, graduations et bien d'autres. Chaque client importe sa propre affiche, et la plateforme génère automatiquement un QR code qui donne accès à une page web contenant toutes les informations de l'événement.",
+      en: "Web platform that allows creating and easily sharing digital invitations for various events: weddings, birthdays, baptisms, graduations and many more. Each client imports their own poster, and the platform automatically generates a QR code that gives access to a web page containing all event information."
     },
     role: {
-      fr: "[RÔLE À FOURNIR]",
-      en: "[ROLE TO BE PROVIDED]"
+      fr: "Développeur Full Stack",
+      en: "Full Stack Developer"
     },
-    company: "[ENTREPRISE À FOURNIR]",
+    company: "Projet personnel",
     year: "2026",
     context: {
-      fr: "[CONTEXTE À FOURNIR]",
-      en: "[CONTEXT TO BE PROVIDED]"
+      fr: "Développé seul",
+      en: "Developed alone"
     },
-    stack: ["[STACK À FOURNIR]"],
+    stack: ["HTML", "CSS", "JavaScript", "React", "Node.js", "Express", "MongoDB", "Git"],
     features: {
-      fr: ["[FONCTIONNALITÉS À FOURNIR]"],
-      en: ["[FEATURES TO BE PROVIDED]"]
+      fr: [
+        "Création et gestion des événements",
+        "Importation d'affiches personnalisées",
+        "Génération automatique de QR codes uniques",
+        "Partage des invitations par lien ou sur WhatsApp",
+        "Page web détaillée pour chaque événement (date, heure, lieu, itinéraire, photos)",
+        "Modification ou suppression des événements",
+        "Espace administrateur pour gérer utilisateurs, événements et contenus"
+      ],
+      en: [
+        "Event creation and management",
+        "Custom poster import",
+        "Automatic unique QR code generation",
+        "Share invitations via link or WhatsApp",
+        "Detailed web page for each event (date, time, location, route, photos)",
+        "Edit or delete events",
+        "Admin space to manage users, events and content"
+      ]
     },
     challenges: [],
-    demoUrl: "[LIEN_DÉMO]",
-    repoUrl: "[LIEN_DÉPÔT]",
-    image: "/projects/tache21.png",
-    screenshots: ["[CAPTURE_1]", "[CAPTURE_2]"]
+    demoUrl: "https://mon-celebra.vercel.app/",
+    repoUrl: "https://github.com/thierroller55-source/mon-celebra",
+    image: "/projects/Logo Mon Celebra.png",
+    screenshots: ["/projects/Logo Mon Celebra.png"]
   }
 ];
