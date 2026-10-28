@@ -7,6 +7,30 @@ const Journey = () => {
 
   const timeline = [
     {
+      year: "2014 - 2015",
+      title: language === 'fr' ? "Certificat BRF" : "BRF Certificate",
+      organization: "École Dorro AW, Sham Notaire",
+      description: language === 'fr'
+        ? "Obtention du certificat BRF."
+        : "Obtained BRF certificate."
+    },
+    {
+      year: "2021 - 2022",
+      title: language === 'fr' ? "Baccalauréat Français (BFM)" : "French Baccalaureate (BFM)",
+      organization: "École Banque Islamique de Guédiawaye, site des enseignants",
+      description: language === 'fr'
+        ? "Obtention du BFM."
+        : "Obtained BFM."
+    },
+    {
+      year: "2024 - 2025",
+      title: language === 'fr' ? "Classe de Première" : "First Year of High School",
+      organization: "École Pikine-Guédiawaye Assane Seck",
+      description: language === 'fr'
+        ? "Classe de Première."
+        : "First year of high school."
+    },
+    {
       year: "2025 - 2026",
       title: "Formation Développement Web et Web Mobile",
       organization: "Bakeli School of Technology",

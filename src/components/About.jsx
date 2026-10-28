@@ -21,19 +21,54 @@ const About = () => {
               <h3 className="text-xl font-semibold text-slate-900 dark:text-white mb-4">
                 {t.education}
               </h3>
-              <div className="space-y-2">
-                <p className="text-slate-700 dark:text-slate-300">
-                  <strong>Bakeli School of Technology</strong>
-                </p>
-                <p className="text-slate-600 dark:text-slate-400">
-                  Développement Web et Web Mobile
-                </p>
-                <p className="text-slate-600 dark:text-slate-400">
-                  2025 – 2026
-                </p>
-                <p className="text-slate-600 dark:text-slate-400 text-sm mt-2">
-                  Certifications : React Native, Django, Anglais
-                </p>
+              <div className="space-y-3">
+                <div>
+                  <p className="text-slate-700 dark:text-slate-300 font-medium">
+                    <strong>Bakeli School of Technology</strong>
+                  </p>
+                  <p className="text-slate-600 dark:text-slate-400 text-sm">
+                    Développement Web et Web Mobile
+                  </p>
+                  <p className="text-slate-600 dark:text-slate-400 text-sm">
+                    2025 – 2026
+                  </p>
+                  <p className="text-slate-600 dark:text-slate-400 text-xs mt-1">
+                    Certifications : React Native, Django, Anglais
+                  </p>
+                </div>
+                <div className="border-t border-slate-200 dark:border-slate-700 pt-3">
+                  <p className="text-slate-700 dark:text-slate-300 font-medium">
+                    <strong>École Pikine-Guédiawaye Assane Seck</strong>
+                  </p>
+                  <p className="text-slate-600 dark:text-slate-400 text-sm">
+                    Classe de Première
+                  </p>
+                  <p className="text-slate-600 dark:text-slate-400 text-sm">
+                    2024 – 2025
+                  </p>
+                </div>
+                <div className="border-t border-slate-200 dark:border-slate-700 pt-3">
+                  <p className="text-slate-700 dark:text-slate-300 font-medium">
+                    <strong>École Banque Islamique de Guédiawaye</strong>
+                  </p>
+                  <p className="text-slate-600 dark:text-slate-400 text-sm">
+                    Baccalauréat Français (BFM)
+                  </p>
+                  <p className="text-slate-600 dark:text-slate-400 text-sm">
+                    2021 – 2022
+                  </p>
+                </div>
+                <div className="border-t border-slate-200 dark:border-slate-700 pt-3">
+                  <p className="text-slate-700 dark:text-slate-300 font-medium">
+                    <strong>École Dorro AW</strong>
+                  </p>
+                  <p className="text-slate-600 dark:text-slate-400 text-sm">
+                    Certificat BRF
+                  </p>
+                  <p className="text-slate-600 dark:text-slate-400 text-sm">
+                    2014 – 2015
+                  </p>
+                </div>
               </div>
             </div>
             <div className="bg-slate-50 dark:bg-slate-800 rounded-xl p-6">
